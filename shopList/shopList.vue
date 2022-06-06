@@ -8,7 +8,7 @@
           </div>
           <div class="shop_right">
             <section class="shop_detail_header">
-              <h4 class="shop_title ellipsis">锄禾日当午，汗滴禾下土</h4>
+              <h4 class="shop_title ellipsis">锄禾日当ddddddd对对对午，汗滴禾下土</h4>
               <ul class="shop_detail_ul">
                 <li class="supports">保</li>
                 <li class="supports">准</li>
